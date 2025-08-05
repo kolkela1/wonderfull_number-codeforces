@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+D:\كتب kolkela\مواد التيرم التاني\source\repos\wender ful fun\ConsoleApplication2\ConsoleApplication2.cpp(19,15): warning C4244: 'initializing': conversion from 'll' to 'int', possible loss of data
+D:\كتب kolkela\مواد التيرم التاني\source\repos\wender ful fun\ConsoleApplication2\ConsoleApplication2.cpp(28,15): warning C4244: 'initializing': conversion from 'll' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> D:\كتب kolkela\مواد التيرم التاني\source\repos\wender ful fun\x64\Debug\ConsoleApplication2.exe
